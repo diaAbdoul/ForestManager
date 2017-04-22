@@ -1,1 +1,1 @@
-"# ForestManager" 
+This project is just for test. Do not use it for production purpose."
